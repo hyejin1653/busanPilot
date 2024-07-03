@@ -1,0 +1,301 @@
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\yjseo\OneDrive\바탕 화면\도선정보수집\수정\busan_pilot_forecast\busan_pilot_forecast.py", line 254, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 269, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 270, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 259, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 143, in getPusanData
+    print(obj + "//////////////////////")
+TypeError: can only concatenate list (not "str") to list
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 259, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 143, in getPusanData
+    print(obj + "//////////////////////")
+TypeError: can only concatenate list (not "str") to list
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 270, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 270, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 262, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 143, in getPusanData
+    send_udp_row_data(obj)
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 152, in send_udp_row_data
+    print(data.size)
+AttributeError: 'list' object has no attribute 'size'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 262, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 143, in getPusanData
+    send_udp_row_data(obj)
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 152, in send_udp_row_data
+    print(data.size)
+AttributeError: 'list' object has no attribute 'size'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 273, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 273, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 280, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 285, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 285, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 294, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 294, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 287, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 144, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 177, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 300, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 300, in <module>
+    schedule.run_pending()
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 301, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 290, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 144, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 178, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 290, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 144, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 178, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 290, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 178, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 291, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 179, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 291, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 179, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 292, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 179, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto("{'test' : '123'}", udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto("{'test' : '123'}", udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto("{'test' : '123'}", udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 293, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 145, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 180, in send_udp_row_data
+    udp_client_socket.sendto(bytes_to_send, udp_addr_port)
+TypeError: 'str' object cannot be interpreted as an integer
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 307, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 307, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 296, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 148, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 183, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 295, in <module>
+    getPusanData()
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 148, in getPusanData
+    send_udp_row_data(obj, "부산")
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 183, in send_udp_row_data
+    udp_client_socket.sendto(json_string, udp_addr_port)
+TypeError: a bytes-like object is required, not 'str'
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 306, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 306, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 306, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 307, in <module>
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 311, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 313, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 314, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 314, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 314, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
+ERROR:root:Traceback (most recent call last):
+  File "d:\Project\@@CloudVTS\@도선정보수집\busan_pilot_forecast\busan_pilot_forecast.py", line 314, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+
